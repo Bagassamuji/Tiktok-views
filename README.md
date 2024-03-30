@@ -2,6 +2,8 @@
 cara install download termux fdroid
 lalu masukan perintah/ ketik di termux
 
+link apk : https://f-droid.org/repo/com.termux_118.apk
+
 pkg install update && upgrade -y
 
 pkg install python
