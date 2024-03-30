@@ -1,5 +1,8 @@
 # Tiktok-views
+screenshot: <img src="https://i.ibb.co/s3M45mF/IMG-20240330-131312.jpg" alt="IMG-20240330-131312" border="0"></a>
+
 cara install download termux fdroid
+
 lalu masukan perintah/ ketik di termux
 
 link apk : https://f-droid.org/repo/com.termux_118.apk
