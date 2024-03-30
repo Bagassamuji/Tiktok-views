@@ -16,3 +16,6 @@ git clone https://github.com/Bagassamuji/Tiktok-views/
 
 cd Tiktok-views
 
+python Views.py / python3 Views.py
+
+author: WILDEV
