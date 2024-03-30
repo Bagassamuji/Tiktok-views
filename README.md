@@ -1,26 +1,37 @@
-# Tiktok-views
 <img src="https://i.ibb.co/s3M45mF/IMG-20240330-131312.jpg" alt="IMG-20240330-131312" border="0"></a>
 
-cara install download termux fdroid
+#Note
+Jangan menyalahgunakan script ini, gunakan script ini dengan bijak. Dosa ditanggung yang pakai !
 
-lalu masukan perintah/ ketik di termux
+<h1 align="center">TIKTOK VIEWS </h1>
 
-link apk : https://f-droid.org/repo/com.termux_118.apk
 
-pkg install update && upgrade -y
+## DOWNLOAD TERMUX FDROID
+* Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
 
-pkg install python
-
-pkg install python2
-
-pkg install python3
-
-pkg install git
-
-git clone https://github.com/Bagassamuji/Tiktok-views/
-
+## CARA INSTALL DI TERMUX/SSH USER
+```bash
+pkg update -y && pkg upgrade -y
+pkg install git -y
+pkg install python -y
+https://github.com/Bagassamuji/Tiktok-views.git
 cd Tiktok-views
+python Views.py atau python3 Views.py
+```
 
-python Views.py / python3 Views.py
+## CARA INSTALL DI VPS UBUNTU USER
+```bash
+apt update && apt upgrade
+apt install git -y
+apt install python3-pip
+https://github.com/Bagassamuji/Tiktok-views.git
+cd Tiktok-views
+python3 brutal.py
+```
 
-author : WILDEV
+## UPDATE SCRIPT
+```bash
+cd brutal
+git pull
+```
+## author : WILDEV
