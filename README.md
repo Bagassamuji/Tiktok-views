@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/s3M45mF/IMG-20240330-131312.jpg" alt="IMG-20240330-131312" border="0"></a>
 
-#Note
-Jangan menyalahgunakan script ini, gunakan script ini dengan bijak. Dosa ditanggung yang pakai !
+## Note
+Gunakan script ini dengan bijak.!
 
 <h1 align="center">TIKTOK VIEWS </h1>
 
