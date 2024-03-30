@@ -26,12 +26,12 @@ apt install git -y
 apt install python3-pip
 https://github.com/Bagassamuji/Tiktok-views.git
 cd Tiktok-views
-python3 brutal.py
+python3 Views.py
 ```
 
 ## UPDATE SCRIPT
 ```bash
-cd brutal
+cd Views
 git pull
 ```
 ## author : WILDEV
