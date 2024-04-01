@@ -17,9 +17,15 @@ pkg install git -y
 pkg install python -y
 https://github.com/Bagassamuji/Tiktok-views.git
 cd Tiktok-views
-python Views.py atau python3 Views.py
 ```
-
+## UNTUK MELIHAT FILE SALIN CODE & COPY DI TERMUX LALU ENTER
+```bash
+ls
+```
+## UNTUK MENJALANKAN FILE SALIN CODE & PASTE DI TERMUX
+```bash
+python Views.py
+```
 ## CARA INSTALL DI VPS UBUNTU USER
 ```bash
 apt update && apt upgrade
@@ -27,6 +33,13 @@ apt install git -y
 apt install python3-pip
 https://github.com/Bagassamuji/Tiktok-views.git
 cd Tiktok-views
+```
+## UNTUK MELIHAT FILE SALIN CODE & COPY DI TERMUX LALU ENTER
+```bash
+ls
+```
+## UNTUK MENJALANKAN FILE SALIN CODE & PASTE DI TERMUX
+```bash
 python3 Views.py
 ```
 
