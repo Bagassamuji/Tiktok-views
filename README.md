@@ -1,5 +1,6 @@
 <img src="https://i.ibb.co/s3M45mF/IMG-20240330-131312.jpg" alt="IMG-20240330-131312" border="0"></a>
 
+<a href="https://ibb.co/vBHPbMw"><img src="https://i.ibb.co/1nLq34v/IMG-20240401-180126.jpg" alt="IMG-20240401-180126" border="0"></a>
 ## Note
 Gunakan script ini dengan bijak.!
 
